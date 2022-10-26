@@ -1,0 +1,4 @@
+This is my first version control system project
+I want to add this in commit 2
+changed by Aastik
+this is changed now
